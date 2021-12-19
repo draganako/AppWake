@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:weightSum="100">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:id="@+id/infoGrupa"
+        android:layout_width="131dp"
+        android:layout_height="90dp"
+        android:layout_weight="55"
+        android:gravity="center"
+        android:text="TextView"
+        android:paddingRight="20dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="10dp"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btnGrupa"
+        android:layout_width="60dp"
+        android:layout_height="55dp"
+
+        android:layout_marginTop="25dp"
+        android:layout_marginBottom="10dp"
+        android:layout_weight="35"
+        android:gravity="center"
+        android:text="Details"
+        android:textColor="#ffffff"
+        android:background="@color/colorPrimary"/>
+
+</LinearLayout>

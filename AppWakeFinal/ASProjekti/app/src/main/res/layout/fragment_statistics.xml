@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="100">
+
+    <LinearLayout
+        android:id="@+id/layGroupInfo"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_weight="10"
+        android:layout_marginTop="30dp">
+
+        <TextView
+            android:id="@+id/txtNazivGrupe"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="naziv grupe"
+            android:textAlignment="center"
+            android:textColor="@color/colorPrimaryDark"
+            android:textSize="25dp"
+            android:layout_marginTop="10dp"/>
+
+        <TextView
+            android:id="@+id/txtIdGrupe"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="id grupe"
+            android:textAlignment="center"
+            android:layout_marginTop="10dp"
+            android:textSize="15dp"
+            android:textColor="@color/colorPrimaryDark"
+            />
+
+        <TextView
+            android:id="@+id/txtBrojClanova"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="broj clanova"
+            android:textAlignment="center"
+            android:layout_marginTop="10dp"
+            android:textSize="15dp"
+            android:textColor="@color/colorPrimaryDark"
+            />
+
+        <TextView
+            android:id="@+id/txtZeljenoVremeBudjenja"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="zeljeno vreme budjenja"
+            android:textAlignment="center"
+            android:layout_marginTop="10dp"
+            android:textSize="15dp"
+            android:textColor="@color/colorPrimaryDark"
+            />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/layGroupStatistics"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:layout_weight="40"
+        android:textColor="@color/colorPrimaryDark"
+        >
+
+        <TextView
+            android:id="@+id/txtProsekProbudjenih"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="no statistics yet"
+            android:textAlignment="viewStart"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:textColor="@color/colorPrimaryDark"
+            />
+
+        <TextView
+            android:id="@+id/txtNajcescePrvi"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:textAlignment="viewStart"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:textColor="@color/colorPrimaryDark"
+            />
+
+        <TextView
+            android:id="@+id/txtBrojPrvih"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:textAlignment="viewStart"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:textColor="@color/colorPrimaryDark"
+            />
+
+        <TextView
+            android:id="@+id/txtNajviseClanova"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:textAlignment="viewStart"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:textColor="@color/colorPrimaryDark"
+            />
+
+        <TextView
+            android:id="@+id/txtNajviseClanovaDatum"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:textAlignment="viewStart"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:textColor="@color/colorPrimaryDark"
+            />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_weight="50"
+        android:gravity="bottom|center"
+        android:weightSum="100"
+        android:layout_marginBottom="40dp">
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/btnLeaveGroup"
+            android:text="Leave the group"
+            android:layout_weight="60"
+            android:textColor="#ffffff"
+            android:background="@color/colorPrimary"
+            android:width="20dp"/>
+
+        <Button
+            android:id="@+id/btnAdminOptions"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Admin options"
+            android:layout_weight="60"
+            android:layout_marginLeft="10dp"
+            android:textColor="#ffffff"
+            android:background="@color/colorPrimary"/>
+
+    </LinearLayout>
+
+</LinearLayout>

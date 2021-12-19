@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="270dp"
+    android:background="@android:color/holo_blue_dark"
+    android:orientation="vertical"
+    android:padding="14dp"
+    android:theme="@style/ThemeOverlay.AppCompat.Dark"
+    android:weightSum="100"
+    android:gravity="center">
+
+    <TextView
+        android:id="@+id/tbxNazivGrupeMng"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="35dp"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:text="Grupa blabla"
+        android:textAlignment="center"
+        android:textColor="#ffffff"
+        app:autoSizeTextType="uniform" />
+
+    <TextView
+        android:id="@+id/tbxOpisGrupeMngGruop"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:gravity="center"
+        android:text="opis grupe"
+        android:textSize="20dp"
+        android:textColor="#ffffff"
+        app:autoSizeTextType="uniform" />
+
+    <Switch
+        android:id="@+id/switchGroupa"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:layout_marginRight="15dp"
+        android:text="Reset alarm   "
+        android:layout_gravity="right" />
+</LinearLayout>

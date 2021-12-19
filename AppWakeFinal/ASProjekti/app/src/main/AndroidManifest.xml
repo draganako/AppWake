@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.appwake">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+
+        android:name=".GlobalVariables"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher_appwake"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_appwake_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        android:usesCleartextTraffic="true">
+        <activity android:name=".Activities.ResignLeadershipActivity"></activity>
+        <activity android:name=".Activities.DeleteGroupMemberActivity" />
+        <activity android:name=".Activities.ChangeGroupInfo" />
+        <activity android:name=".Activities.AddGroupMemberActivity" />
+        <activity
+            android:name=".Activities.PickProfilePicActivity"
+            android:parentActivityName=".Activities.MainActivity" />
+        <activity
+            android:name=".Activities.SplashScreenActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Activities.AdministratorActivity"
+            android:parentActivityName=".Activities.MainActivity" />
+        <activity
+            android:name=".SettingsActivity"
+            android:parentActivityName=".Activities.MainActivity" />
+        <activity
+            android:name=".Activities.CreateGroupActivity"
+            android:parentActivityName=".Activities.MainActivity" />
+        <activity
+            android:name=".Activities.AddUserActivity"
+            android:parentActivityName=".Activities.CreateGroupActivity" />
+        <activity
+            android:name=".Activities.ChangeUserDataActivity"
+            android:parentActivityName=".Activities.MainActivity" />
+        <activity android:name=".Activities.GrupaActivity" />
+        <activity android:name=".listview_grupa" />
+        <activity
+            android:name=".Activities.RegisterDataActivity"
+            android:parentActivityName=".Activities.LoginActivity" />
+        <activity
+            android:name=".Activities.LoginDataActivity"
+            android:parentActivityName=".Activities.LoginActivity" />
+        <activity
+            android:name=".Activities.LoginActivity"
+            android:parentActivityName=".Activities.SplashScreenActivity" />
+        <activity android:name=".Activities.ManageGroupActivity" />
+        <activity
+            android:name=".Activities.MainActivity"
+            android:parentActivityName=".Activities.SplashScreenActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <receiver
+            android:name=".TheAlarm"
+            android:enabled="true"
+            android:exported="true" />
+    </application>
+
+</manifest>

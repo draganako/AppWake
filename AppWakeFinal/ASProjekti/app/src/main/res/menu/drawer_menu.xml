@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group
+        android:id="@+id/manu_drawer_nav"
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_changeinfo"
+            android:icon="@drawable/ic_keyboard_arrow_right_black_24dp"
+            android:title="Change info" />
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/ic_keyboard_arrow_right_black_24dp"
+            android:title="Logout" />
+        <item
+            android:id="@+id/nav_groupcreate"
+            android:icon="@drawable/ic_keyboard_arrow_right_black_24dp"
+            android:title="Create a group" />
+
+        <item
+            android:id="@+id/nav_settingsAdmin"
+            android:icon="@drawable/ic_keyboard_arrow_right_black_24dp"
+            android:title="Admin settings"
+            android:visible="false"/>
+    </group>
+
+
+</menu>

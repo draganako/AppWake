@@ -1,0 +1,520 @@
+C:\Tamara\softversko\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\ApplicationInsights.config
+C:\Tamara\softversko\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\api.dll.config
+C:\Tamara\softversko\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\api.dll
+C:\Tamara\softversko\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\api.pdb
+C:\Tamara\softversko\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Antlr3.Runtime.dll
+C:\Tamara\softversko\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\AutoMapper.dll
+C:\Tamara\softversko\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\BouncyCastle.Crypto.dll
+C:\Tamara\softversko\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\FluentNHibernate.dll
+C:\Tamara\softversko\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Google.Protobuf.dll
+C:\Tamara\softversko\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Iesi.Collections.dll
+C:\Tamara\softversko\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Tamara\softversko\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Microsoft.AI.DependencyCollector.dll
+C:\Tamara\softversko\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Tamara\softversko\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Tamara\softversko\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Microsoft.AI.Web.dll
+C:\Tamara\softversko\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Microsoft.AI.WindowsServer.dll
+C:\Tamara\softversko\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Microsoft.ApplicationInsights.dll
+C:\Tamara\softversko\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Tamara\softversko\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Microsoft.Web.Infrastructure.dll
+C:\Tamara\softversko\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\MySql.Data.dll
+C:\Tamara\softversko\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Newtonsoft.Json.dll
+C:\Tamara\softversko\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\NHibernate.dll
+C:\Tamara\softversko\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Remotion.Linq.dll
+C:\Tamara\softversko\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Remotion.Linq.EagerFetching.dll
+C:\Tamara\softversko\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Net.Http.Formatting.dll
+C:\Tamara\softversko\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Web.Helpers.dll
+C:\Tamara\softversko\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Web.Http.dll
+C:\Tamara\softversko\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Web.Http.WebHost.dll
+C:\Tamara\softversko\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Web.Mvc.dll
+C:\Tamara\softversko\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Web.Optimization.dll
+C:\Tamara\softversko\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Web.Razor.dll
+C:\Tamara\softversko\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Web.WebPages.Deployment.dll
+C:\Tamara\softversko\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Web.WebPages.dll
+C:\Tamara\softversko\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Web.WebPages.Razor.dll
+C:\Tamara\softversko\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\WebGrease.dll
+C:\Tamara\softversko\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Antlr3.Runtime.xml
+C:\Tamara\softversko\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\AutoMapper.xml
+C:\Tamara\softversko\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\FluentNHibernate.xml
+C:\Tamara\softversko\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Google.Protobuf.xml
+C:\Tamara\softversko\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Iesi.Collections.xml
+C:\Tamara\softversko\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Tamara\softversko\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\MySql.Data.xml
+C:\Tamara\softversko\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\NHibernate.xml
+C:\Tamara\softversko\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Remotion.Linq.xml
+C:\Tamara\softversko\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Remotion.Linq.EagerFetching.xml
+C:\Tamara\softversko\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Newtonsoft.Json.xml
+C:\Tamara\softversko\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Net.Http.Formatting.xml
+C:\Tamara\softversko\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Web.Helpers.xml
+C:\Tamara\softversko\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Web.Http.xml
+C:\Tamara\softversko\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Web.Http.WebHost.xml
+C:\Tamara\softversko\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Web.Mvc.xml
+C:\Tamara\softversko\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Web.Optimization.xml
+C:\Tamara\softversko\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Web.Razor.xml
+C:\Tamara\softversko\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Web.WebPages.xml
+C:\Tamara\softversko\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Web.WebPages.Deployment.xml
+C:\Tamara\softversko\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Web.WebPages.Razor.xml
+C:\Tamara\softversko\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Microsoft.ApplicationInsights.xml
+C:\Tamara\softversko\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Microsoft.AI.DependencyCollector.xml
+C:\Tamara\softversko\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Tamara\softversko\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Microsoft.AI.WindowsServer.xml
+C:\Tamara\softversko\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Microsoft.AI.Web.xml
+C:\Tamara\softversko\si.19.36.appwake\Aplikacija\AppWake_API\api\obj\Release\api.csproj.CoreCompileInputs.cache
+C:\Tamara\softversko\si.19.36.appwake\Aplikacija\AppWake_API\api\obj\Release\api.csproj.CopyComplete
+C:\Tamara\softversko\si.19.36.appwake\Aplikacija\AppWake_API\api\obj\Release\api.dll
+C:\Tamara\softversko\si.19.36.appwake\Aplikacija\AppWake_API\api\obj\Release\api.pdb
+C:\Tamara\softversko\si.19.36.appwake\Aplikacija\AppWake_API\api\obj\Release\api.csprojAssemblyReference.cache
+D:\TINA\bb\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\ApplicationInsights.config
+D:\TINA\bb\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\api.dll.config
+D:\TINA\bb\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\api.dll
+D:\TINA\bb\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\api.pdb
+D:\TINA\bb\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Antlr3.Runtime.dll
+D:\TINA\bb\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\AutoMapper.dll
+D:\TINA\bb\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\BouncyCastle.Crypto.dll
+D:\TINA\bb\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\FluentNHibernate.dll
+D:\TINA\bb\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Google.Protobuf.dll
+D:\TINA\bb\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Iesi.Collections.dll
+D:\TINA\bb\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Microsoft.AI.Agent.Intercept.dll
+D:\TINA\bb\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Microsoft.AI.DependencyCollector.dll
+D:\TINA\bb\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\TINA\bb\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\TINA\bb\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Microsoft.AI.Web.dll
+D:\TINA\bb\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Microsoft.AI.WindowsServer.dll
+D:\TINA\bb\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Microsoft.ApplicationInsights.dll
+D:\TINA\bb\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\TINA\bb\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Microsoft.Web.Infrastructure.dll
+D:\TINA\bb\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\MySql.Data.dll
+D:\TINA\bb\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Newtonsoft.Json.dll
+D:\TINA\bb\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\NHibernate.dll
+D:\TINA\bb\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Remotion.Linq.dll
+D:\TINA\bb\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Remotion.Linq.EagerFetching.dll
+D:\TINA\bb\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Net.Http.Formatting.dll
+D:\TINA\bb\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Web.Helpers.dll
+D:\TINA\bb\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Web.Http.dll
+D:\TINA\bb\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Web.Http.WebHost.dll
+D:\TINA\bb\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Web.Mvc.dll
+D:\TINA\bb\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Web.Optimization.dll
+D:\TINA\bb\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Web.Razor.dll
+D:\TINA\bb\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Web.WebPages.Deployment.dll
+D:\TINA\bb\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Web.WebPages.dll
+D:\TINA\bb\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Web.WebPages.Razor.dll
+D:\TINA\bb\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\WebGrease.dll
+D:\TINA\bb\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Antlr3.Runtime.xml
+D:\TINA\bb\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\AutoMapper.xml
+D:\TINA\bb\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\FluentNHibernate.xml
+D:\TINA\bb\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Google.Protobuf.xml
+D:\TINA\bb\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Iesi.Collections.xml
+D:\TINA\bb\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\TINA\bb\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\MySql.Data.xml
+D:\TINA\bb\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\NHibernate.xml
+D:\TINA\bb\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Remotion.Linq.xml
+D:\TINA\bb\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Remotion.Linq.EagerFetching.xml
+D:\TINA\bb\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Newtonsoft.Json.xml
+D:\TINA\bb\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Net.Http.Formatting.xml
+D:\TINA\bb\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Web.Helpers.xml
+D:\TINA\bb\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Web.Http.xml
+D:\TINA\bb\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Web.Http.WebHost.xml
+D:\TINA\bb\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Web.Mvc.xml
+D:\TINA\bb\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Web.Optimization.xml
+D:\TINA\bb\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Web.Razor.xml
+D:\TINA\bb\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Web.WebPages.xml
+D:\TINA\bb\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Web.WebPages.Deployment.xml
+D:\TINA\bb\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Web.WebPages.Razor.xml
+D:\TINA\bb\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Microsoft.ApplicationInsights.xml
+D:\TINA\bb\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Microsoft.AI.DependencyCollector.xml
+D:\TINA\bb\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\TINA\bb\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Microsoft.AI.WindowsServer.xml
+D:\TINA\bb\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Microsoft.AI.Web.xml
+D:\TINA\bb\si.19.36.appwake\Aplikacija\AppWake_API\api\obj\Release\api.csproj.CoreCompileInputs.cache
+D:\TINA\bb\si.19.36.appwake\Aplikacija\AppWake_API\api\obj\Release\api.dll
+D:\TINA\bb\si.19.36.appwake\Aplikacija\AppWake_API\api\obj\Release\api.pdb
+C:\Users\acaso\OneDrive\Desktop\AppWake_API\api\bin\ApplicationInsights.config
+C:\Users\acaso\OneDrive\Desktop\AppWake_API\api\bin\api.dll.config
+C:\Users\acaso\OneDrive\Desktop\AppWake_API\api\bin\api.dll
+C:\Users\acaso\OneDrive\Desktop\AppWake_API\api\bin\api.pdb
+C:\Users\acaso\OneDrive\Desktop\AppWake_API\api\bin\Antlr3.Runtime.dll
+C:\Users\acaso\OneDrive\Desktop\AppWake_API\api\bin\AutoMapper.dll
+C:\Users\acaso\OneDrive\Desktop\AppWake_API\api\bin\BouncyCastle.Crypto.dll
+C:\Users\acaso\OneDrive\Desktop\AppWake_API\api\bin\FluentNHibernate.dll
+C:\Users\acaso\OneDrive\Desktop\AppWake_API\api\bin\Google.Protobuf.dll
+C:\Users\acaso\OneDrive\Desktop\AppWake_API\api\bin\Iesi.Collections.dll
+C:\Users\acaso\OneDrive\Desktop\AppWake_API\api\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\acaso\OneDrive\Desktop\AppWake_API\api\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\acaso\OneDrive\Desktop\AppWake_API\api\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\acaso\OneDrive\Desktop\AppWake_API\api\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\acaso\OneDrive\Desktop\AppWake_API\api\bin\Microsoft.AI.Web.dll
+C:\Users\acaso\OneDrive\Desktop\AppWake_API\api\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\acaso\OneDrive\Desktop\AppWake_API\api\bin\Microsoft.ApplicationInsights.dll
+C:\Users\acaso\OneDrive\Desktop\AppWake_API\api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\acaso\OneDrive\Desktop\AppWake_API\api\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\acaso\OneDrive\Desktop\AppWake_API\api\bin\MySql.Data.dll
+C:\Users\acaso\OneDrive\Desktop\AppWake_API\api\bin\Newtonsoft.Json.dll
+C:\Users\acaso\OneDrive\Desktop\AppWake_API\api\bin\NHibernate.dll
+C:\Users\acaso\OneDrive\Desktop\AppWake_API\api\bin\Remotion.Linq.dll
+C:\Users\acaso\OneDrive\Desktop\AppWake_API\api\bin\Remotion.Linq.EagerFetching.dll
+C:\Users\acaso\OneDrive\Desktop\AppWake_API\api\bin\System.Net.Http.Formatting.dll
+C:\Users\acaso\OneDrive\Desktop\AppWake_API\api\bin\System.Web.Helpers.dll
+C:\Users\acaso\OneDrive\Desktop\AppWake_API\api\bin\System.Web.Http.dll
+C:\Users\acaso\OneDrive\Desktop\AppWake_API\api\bin\System.Web.Http.WebHost.dll
+C:\Users\acaso\OneDrive\Desktop\AppWake_API\api\bin\System.Web.Mvc.dll
+C:\Users\acaso\OneDrive\Desktop\AppWake_API\api\bin\System.Web.Optimization.dll
+C:\Users\acaso\OneDrive\Desktop\AppWake_API\api\bin\System.Web.Razor.dll
+C:\Users\acaso\OneDrive\Desktop\AppWake_API\api\bin\System.Web.WebPages.Deployment.dll
+C:\Users\acaso\OneDrive\Desktop\AppWake_API\api\bin\System.Web.WebPages.dll
+C:\Users\acaso\OneDrive\Desktop\AppWake_API\api\bin\System.Web.WebPages.Razor.dll
+C:\Users\acaso\OneDrive\Desktop\AppWake_API\api\bin\WebGrease.dll
+C:\Users\acaso\OneDrive\Desktop\AppWake_API\api\bin\Antlr3.Runtime.xml
+C:\Users\acaso\OneDrive\Desktop\AppWake_API\api\bin\AutoMapper.xml
+C:\Users\acaso\OneDrive\Desktop\AppWake_API\api\bin\FluentNHibernate.xml
+C:\Users\acaso\OneDrive\Desktop\AppWake_API\api\bin\Google.Protobuf.xml
+C:\Users\acaso\OneDrive\Desktop\AppWake_API\api\bin\Iesi.Collections.xml
+C:\Users\acaso\OneDrive\Desktop\AppWake_API\api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\acaso\OneDrive\Desktop\AppWake_API\api\bin\MySql.Data.xml
+C:\Users\acaso\OneDrive\Desktop\AppWake_API\api\bin\NHibernate.xml
+C:\Users\acaso\OneDrive\Desktop\AppWake_API\api\bin\Remotion.Linq.xml
+C:\Users\acaso\OneDrive\Desktop\AppWake_API\api\bin\Remotion.Linq.EagerFetching.xml
+C:\Users\acaso\OneDrive\Desktop\AppWake_API\api\bin\Newtonsoft.Json.xml
+C:\Users\acaso\OneDrive\Desktop\AppWake_API\api\bin\System.Net.Http.Formatting.xml
+C:\Users\acaso\OneDrive\Desktop\AppWake_API\api\bin\System.Web.Helpers.xml
+C:\Users\acaso\OneDrive\Desktop\AppWake_API\api\bin\System.Web.Http.xml
+C:\Users\acaso\OneDrive\Desktop\AppWake_API\api\bin\System.Web.Http.WebHost.xml
+C:\Users\acaso\OneDrive\Desktop\AppWake_API\api\bin\System.Web.Mvc.xml
+C:\Users\acaso\OneDrive\Desktop\AppWake_API\api\bin\System.Web.Optimization.xml
+C:\Users\acaso\OneDrive\Desktop\AppWake_API\api\bin\System.Web.Razor.xml
+C:\Users\acaso\OneDrive\Desktop\AppWake_API\api\bin\System.Web.WebPages.xml
+C:\Users\acaso\OneDrive\Desktop\AppWake_API\api\bin\System.Web.WebPages.Deployment.xml
+C:\Users\acaso\OneDrive\Desktop\AppWake_API\api\bin\System.Web.WebPages.Razor.xml
+C:\Users\acaso\OneDrive\Desktop\AppWake_API\api\bin\Microsoft.ApplicationInsights.xml
+C:\Users\acaso\OneDrive\Desktop\AppWake_API\api\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\acaso\OneDrive\Desktop\AppWake_API\api\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\acaso\OneDrive\Desktop\AppWake_API\api\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\acaso\OneDrive\Desktop\AppWake_API\api\bin\Microsoft.AI.Web.xml
+C:\Users\acaso\OneDrive\Desktop\AppWake_API\api\obj\Release\api.csprojAssemblyReference.cache
+C:\Users\acaso\OneDrive\Desktop\AppWake_API\api\obj\Release\api.csproj.CoreCompileInputs.cache
+C:\Users\acaso\OneDrive\Desktop\AppWake_API\api\obj\Release\api.csproj.CopyComplete
+C:\Users\acaso\OneDrive\Desktop\AppWake_API\api\obj\Release\api.dll
+C:\Users\acaso\OneDrive\Desktop\AppWake_API\api\obj\Release\api.pdb
+D:\TINA\AppWake_API\api\bin\ApplicationInsights.config
+D:\TINA\AppWake_API\api\bin\api.dll.config
+D:\TINA\AppWake_API\api\bin\api.dll
+D:\TINA\AppWake_API\api\bin\api.pdb
+D:\TINA\AppWake_API\api\bin\Antlr3.Runtime.dll
+D:\TINA\AppWake_API\api\bin\AutoMapper.dll
+D:\TINA\AppWake_API\api\bin\BouncyCastle.Crypto.dll
+D:\TINA\AppWake_API\api\bin\FluentNHibernate.dll
+D:\TINA\AppWake_API\api\bin\Google.Protobuf.dll
+D:\TINA\AppWake_API\api\bin\Iesi.Collections.dll
+D:\TINA\AppWake_API\api\bin\Microsoft.AI.Agent.Intercept.dll
+D:\TINA\AppWake_API\api\bin\Microsoft.AI.DependencyCollector.dll
+D:\TINA\AppWake_API\api\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\TINA\AppWake_API\api\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\TINA\AppWake_API\api\bin\Microsoft.AI.Web.dll
+D:\TINA\AppWake_API\api\bin\Microsoft.AI.WindowsServer.dll
+D:\TINA\AppWake_API\api\bin\Microsoft.ApplicationInsights.dll
+D:\TINA\AppWake_API\api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\TINA\AppWake_API\api\bin\Microsoft.Web.Infrastructure.dll
+D:\TINA\AppWake_API\api\bin\MySql.Data.dll
+D:\TINA\AppWake_API\api\bin\Newtonsoft.Json.dll
+D:\TINA\AppWake_API\api\bin\NHibernate.dll
+D:\TINA\AppWake_API\api\bin\Remotion.Linq.dll
+D:\TINA\AppWake_API\api\bin\Remotion.Linq.EagerFetching.dll
+D:\TINA\AppWake_API\api\bin\System.Net.Http.Formatting.dll
+D:\TINA\AppWake_API\api\bin\System.Web.Helpers.dll
+D:\TINA\AppWake_API\api\bin\System.Web.Http.dll
+D:\TINA\AppWake_API\api\bin\System.Web.Http.WebHost.dll
+D:\TINA\AppWake_API\api\bin\System.Web.Mvc.dll
+D:\TINA\AppWake_API\api\bin\System.Web.Optimization.dll
+D:\TINA\AppWake_API\api\bin\System.Web.Razor.dll
+D:\TINA\AppWake_API\api\bin\System.Web.WebPages.Deployment.dll
+D:\TINA\AppWake_API\api\bin\System.Web.WebPages.dll
+D:\TINA\AppWake_API\api\bin\System.Web.WebPages.Razor.dll
+D:\TINA\AppWake_API\api\bin\WebGrease.dll
+D:\TINA\AppWake_API\api\bin\Antlr3.Runtime.xml
+D:\TINA\AppWake_API\api\bin\AutoMapper.xml
+D:\TINA\AppWake_API\api\bin\FluentNHibernate.xml
+D:\TINA\AppWake_API\api\bin\Google.Protobuf.xml
+D:\TINA\AppWake_API\api\bin\Iesi.Collections.xml
+D:\TINA\AppWake_API\api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\TINA\AppWake_API\api\bin\MySql.Data.xml
+D:\TINA\AppWake_API\api\bin\NHibernate.xml
+D:\TINA\AppWake_API\api\bin\Remotion.Linq.xml
+D:\TINA\AppWake_API\api\bin\Remotion.Linq.EagerFetching.xml
+D:\TINA\AppWake_API\api\bin\Newtonsoft.Json.xml
+D:\TINA\AppWake_API\api\bin\System.Net.Http.Formatting.xml
+D:\TINA\AppWake_API\api\bin\System.Web.Helpers.xml
+D:\TINA\AppWake_API\api\bin\System.Web.Http.xml
+D:\TINA\AppWake_API\api\bin\System.Web.Http.WebHost.xml
+D:\TINA\AppWake_API\api\bin\System.Web.Mvc.xml
+D:\TINA\AppWake_API\api\bin\System.Web.Optimization.xml
+D:\TINA\AppWake_API\api\bin\System.Web.Razor.xml
+D:\TINA\AppWake_API\api\bin\System.Web.WebPages.xml
+D:\TINA\AppWake_API\api\bin\System.Web.WebPages.Deployment.xml
+D:\TINA\AppWake_API\api\bin\System.Web.WebPages.Razor.xml
+D:\TINA\AppWake_API\api\bin\Microsoft.ApplicationInsights.xml
+D:\TINA\AppWake_API\api\bin\Microsoft.AI.DependencyCollector.xml
+D:\TINA\AppWake_API\api\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\TINA\AppWake_API\api\bin\Microsoft.AI.WindowsServer.xml
+D:\TINA\AppWake_API\api\bin\Microsoft.AI.Web.xml
+D:\TINA\AppWake_API\api\obj\Release\api.csproj.CoreCompileInputs.cache
+D:\TINA\AppWake_API\api\obj\Release\api.dll
+D:\TINA\AppWake_API\api\obj\Release\api.pdb
+D:\TINA\kuku4\AppWake_API statistika new\api\bin\ApplicationInsights.config
+D:\TINA\kuku4\AppWake_API statistika new\api\bin\api.dll.config
+D:\TINA\kuku4\AppWake_API statistika new\api\bin\api.dll
+D:\TINA\kuku4\AppWake_API statistika new\api\bin\api.pdb
+D:\TINA\kuku4\AppWake_API statistika new\api\bin\Antlr3.Runtime.dll
+D:\TINA\kuku4\AppWake_API statistika new\api\bin\AutoMapper.dll
+D:\TINA\kuku4\AppWake_API statistika new\api\bin\BouncyCastle.Crypto.dll
+D:\TINA\kuku4\AppWake_API statistika new\api\bin\FluentNHibernate.dll
+D:\TINA\kuku4\AppWake_API statistika new\api\bin\Google.Protobuf.dll
+D:\TINA\kuku4\AppWake_API statistika new\api\bin\Iesi.Collections.dll
+D:\TINA\kuku4\AppWake_API statistika new\api\bin\Microsoft.AI.Agent.Intercept.dll
+D:\TINA\kuku4\AppWake_API statistika new\api\bin\Microsoft.AI.DependencyCollector.dll
+D:\TINA\kuku4\AppWake_API statistika new\api\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\TINA\kuku4\AppWake_API statistika new\api\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\TINA\kuku4\AppWake_API statistika new\api\bin\Microsoft.AI.Web.dll
+D:\TINA\kuku4\AppWake_API statistika new\api\bin\Microsoft.AI.WindowsServer.dll
+D:\TINA\kuku4\AppWake_API statistika new\api\bin\Microsoft.ApplicationInsights.dll
+D:\TINA\kuku4\AppWake_API statistika new\api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\TINA\kuku4\AppWake_API statistika new\api\bin\Microsoft.Web.Infrastructure.dll
+D:\TINA\kuku4\AppWake_API statistika new\api\bin\MySql.Data.dll
+D:\TINA\kuku4\AppWake_API statistika new\api\bin\Newtonsoft.Json.dll
+D:\TINA\kuku4\AppWake_API statistika new\api\bin\NHibernate.dll
+D:\TINA\kuku4\AppWake_API statistika new\api\bin\Remotion.Linq.dll
+D:\TINA\kuku4\AppWake_API statistika new\api\bin\Remotion.Linq.EagerFetching.dll
+D:\TINA\kuku4\AppWake_API statistika new\api\bin\System.Net.Http.Formatting.dll
+D:\TINA\kuku4\AppWake_API statistika new\api\bin\System.Web.Helpers.dll
+D:\TINA\kuku4\AppWake_API statistika new\api\bin\System.Web.Http.dll
+D:\TINA\kuku4\AppWake_API statistika new\api\bin\System.Web.Http.WebHost.dll
+D:\TINA\kuku4\AppWake_API statistika new\api\bin\System.Web.Mvc.dll
+D:\TINA\kuku4\AppWake_API statistika new\api\bin\System.Web.Optimization.dll
+D:\TINA\kuku4\AppWake_API statistika new\api\bin\System.Web.Razor.dll
+D:\TINA\kuku4\AppWake_API statistika new\api\bin\System.Web.WebPages.Deployment.dll
+D:\TINA\kuku4\AppWake_API statistika new\api\bin\System.Web.WebPages.dll
+D:\TINA\kuku4\AppWake_API statistika new\api\bin\System.Web.WebPages.Razor.dll
+D:\TINA\kuku4\AppWake_API statistika new\api\bin\WebGrease.dll
+D:\TINA\kuku4\AppWake_API statistika new\api\bin\Antlr3.Runtime.xml
+D:\TINA\kuku4\AppWake_API statistika new\api\bin\AutoMapper.xml
+D:\TINA\kuku4\AppWake_API statistika new\api\bin\FluentNHibernate.xml
+D:\TINA\kuku4\AppWake_API statistika new\api\bin\Google.Protobuf.xml
+D:\TINA\kuku4\AppWake_API statistika new\api\bin\Iesi.Collections.xml
+D:\TINA\kuku4\AppWake_API statistika new\api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\TINA\kuku4\AppWake_API statistika new\api\bin\MySql.Data.xml
+D:\TINA\kuku4\AppWake_API statistika new\api\bin\NHibernate.xml
+D:\TINA\kuku4\AppWake_API statistika new\api\bin\Remotion.Linq.xml
+D:\TINA\kuku4\AppWake_API statistika new\api\bin\Remotion.Linq.EagerFetching.xml
+D:\TINA\kuku4\AppWake_API statistika new\api\bin\Newtonsoft.Json.xml
+D:\TINA\kuku4\AppWake_API statistika new\api\bin\System.Net.Http.Formatting.xml
+D:\TINA\kuku4\AppWake_API statistika new\api\bin\System.Web.Helpers.xml
+D:\TINA\kuku4\AppWake_API statistika new\api\bin\System.Web.Http.xml
+D:\TINA\kuku4\AppWake_API statistika new\api\bin\System.Web.Http.WebHost.xml
+D:\TINA\kuku4\AppWake_API statistika new\api\bin\System.Web.Mvc.xml
+D:\TINA\kuku4\AppWake_API statistika new\api\bin\System.Web.Optimization.xml
+D:\TINA\kuku4\AppWake_API statistika new\api\bin\System.Web.Razor.xml
+D:\TINA\kuku4\AppWake_API statistika new\api\bin\System.Web.WebPages.xml
+D:\TINA\kuku4\AppWake_API statistika new\api\bin\System.Web.WebPages.Deployment.xml
+D:\TINA\kuku4\AppWake_API statistika new\api\bin\System.Web.WebPages.Razor.xml
+D:\TINA\kuku4\AppWake_API statistika new\api\bin\Microsoft.ApplicationInsights.xml
+D:\TINA\kuku4\AppWake_API statistika new\api\bin\Microsoft.AI.DependencyCollector.xml
+D:\TINA\kuku4\AppWake_API statistika new\api\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\TINA\kuku4\AppWake_API statistika new\api\bin\Microsoft.AI.WindowsServer.xml
+D:\TINA\kuku4\AppWake_API statistika new\api\bin\Microsoft.AI.Web.xml
+D:\TINA\kuku4\AppWake_API statistika new\api\obj\Release\api.csprojResolveAssemblyReference.cache
+D:\TINA\kuku4\AppWake_API statistika new\api\obj\Release\api.csproj.CoreCompileInputs.cache
+D:\TINA\kuku4\AppWake_API statistika new\api\obj\Release\api.dll
+D:\TINA\kuku4\AppWake_API statistika new\api\obj\Release\api.pdb
+D:\TINA\kuku5\laallaal\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\ApplicationInsights.config
+D:\TINA\kuku5\laallaal\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\api.dll.config
+D:\TINA\kuku5\laallaal\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\api.dll
+D:\TINA\kuku5\laallaal\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\api.pdb
+D:\TINA\kuku5\laallaal\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Antlr3.Runtime.dll
+D:\TINA\kuku5\laallaal\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\AutoMapper.dll
+D:\TINA\kuku5\laallaal\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\BouncyCastle.Crypto.dll
+D:\TINA\kuku5\laallaal\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\FluentNHibernate.dll
+D:\TINA\kuku5\laallaal\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Google.Protobuf.dll
+D:\TINA\kuku5\laallaal\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Iesi.Collections.dll
+D:\TINA\kuku5\laallaal\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Microsoft.AI.Agent.Intercept.dll
+D:\TINA\kuku5\laallaal\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Microsoft.AI.DependencyCollector.dll
+D:\TINA\kuku5\laallaal\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\TINA\kuku5\laallaal\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\TINA\kuku5\laallaal\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Microsoft.AI.Web.dll
+D:\TINA\kuku5\laallaal\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Microsoft.AI.WindowsServer.dll
+D:\TINA\kuku5\laallaal\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Microsoft.ApplicationInsights.dll
+D:\TINA\kuku5\laallaal\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\TINA\kuku5\laallaal\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Microsoft.Web.Infrastructure.dll
+D:\TINA\kuku5\laallaal\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\MySql.Data.dll
+D:\TINA\kuku5\laallaal\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Newtonsoft.Json.dll
+D:\TINA\kuku5\laallaal\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\NHibernate.dll
+D:\TINA\kuku5\laallaal\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Remotion.Linq.dll
+D:\TINA\kuku5\laallaal\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Remotion.Linq.EagerFetching.dll
+D:\TINA\kuku5\laallaal\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Net.Http.Formatting.dll
+D:\TINA\kuku5\laallaal\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Web.Helpers.dll
+D:\TINA\kuku5\laallaal\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Web.Http.dll
+D:\TINA\kuku5\laallaal\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Web.Http.WebHost.dll
+D:\TINA\kuku5\laallaal\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Web.Mvc.dll
+D:\TINA\kuku5\laallaal\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Web.Optimization.dll
+D:\TINA\kuku5\laallaal\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Web.Razor.dll
+D:\TINA\kuku5\laallaal\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Web.WebPages.Deployment.dll
+D:\TINA\kuku5\laallaal\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Web.WebPages.dll
+D:\TINA\kuku5\laallaal\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Web.WebPages.Razor.dll
+D:\TINA\kuku5\laallaal\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\WebGrease.dll
+D:\TINA\kuku5\laallaal\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Antlr3.Runtime.xml
+D:\TINA\kuku5\laallaal\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\AutoMapper.xml
+D:\TINA\kuku5\laallaal\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\FluentNHibernate.xml
+D:\TINA\kuku5\laallaal\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Google.Protobuf.xml
+D:\TINA\kuku5\laallaal\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Iesi.Collections.xml
+D:\TINA\kuku5\laallaal\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\TINA\kuku5\laallaal\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\MySql.Data.xml
+D:\TINA\kuku5\laallaal\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\NHibernate.xml
+D:\TINA\kuku5\laallaal\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Remotion.Linq.xml
+D:\TINA\kuku5\laallaal\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Remotion.Linq.EagerFetching.xml
+D:\TINA\kuku5\laallaal\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Newtonsoft.Json.xml
+D:\TINA\kuku5\laallaal\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Net.Http.Formatting.xml
+D:\TINA\kuku5\laallaal\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Web.Helpers.xml
+D:\TINA\kuku5\laallaal\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Web.Http.xml
+D:\TINA\kuku5\laallaal\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Web.Http.WebHost.xml
+D:\TINA\kuku5\laallaal\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Web.Mvc.xml
+D:\TINA\kuku5\laallaal\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Web.Optimization.xml
+D:\TINA\kuku5\laallaal\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Web.Razor.xml
+D:\TINA\kuku5\laallaal\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Web.WebPages.xml
+D:\TINA\kuku5\laallaal\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Web.WebPages.Deployment.xml
+D:\TINA\kuku5\laallaal\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Web.WebPages.Razor.xml
+D:\TINA\kuku5\laallaal\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Microsoft.ApplicationInsights.xml
+D:\TINA\kuku5\laallaal\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Microsoft.AI.DependencyCollector.xml
+D:\TINA\kuku5\laallaal\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\TINA\kuku5\laallaal\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Microsoft.AI.WindowsServer.xml
+D:\TINA\kuku5\laallaal\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Microsoft.AI.Web.xml
+D:\TINA\kuku5\laallaal\si.19.36.appwake\Aplikacija\AppWake_API\api\obj\Release\api.csprojResolveAssemblyReference.cache
+D:\TINA\kuku5\laallaal\si.19.36.appwake\Aplikacija\AppWake_API\api\obj\Release\api.csproj.CoreCompileInputs.cache
+D:\TINA\kuku5\laallaal\si.19.36.appwake\Aplikacija\AppWake_API\api\obj\Release\api.dll
+D:\TINA\kuku5\laallaal\si.19.36.appwake\Aplikacija\AppWake_API\api\obj\Release\api.pdb
+D:\TINA\kuku5\poslednje\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\ApplicationInsights.config
+D:\TINA\kuku5\poslednje\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\api.dll.config
+D:\TINA\kuku5\poslednje\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\api.dll
+D:\TINA\kuku5\poslednje\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\api.pdb
+D:\TINA\kuku5\poslednje\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Antlr3.Runtime.dll
+D:\TINA\kuku5\poslednje\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\AutoMapper.dll
+D:\TINA\kuku5\poslednje\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\BouncyCastle.Crypto.dll
+D:\TINA\kuku5\poslednje\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\FluentNHibernate.dll
+D:\TINA\kuku5\poslednje\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Google.Protobuf.dll
+D:\TINA\kuku5\poslednje\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Iesi.Collections.dll
+D:\TINA\kuku5\poslednje\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Microsoft.AI.Agent.Intercept.dll
+D:\TINA\kuku5\poslednje\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Microsoft.AI.DependencyCollector.dll
+D:\TINA\kuku5\poslednje\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\TINA\kuku5\poslednje\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\TINA\kuku5\poslednje\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Microsoft.AI.Web.dll
+D:\TINA\kuku5\poslednje\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Microsoft.AI.WindowsServer.dll
+D:\TINA\kuku5\poslednje\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Microsoft.ApplicationInsights.dll
+D:\TINA\kuku5\poslednje\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\TINA\kuku5\poslednje\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Microsoft.Web.Infrastructure.dll
+D:\TINA\kuku5\poslednje\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\MySql.Data.dll
+D:\TINA\kuku5\poslednje\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Newtonsoft.Json.dll
+D:\TINA\kuku5\poslednje\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\NHibernate.dll
+D:\TINA\kuku5\poslednje\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Remotion.Linq.dll
+D:\TINA\kuku5\poslednje\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Remotion.Linq.EagerFetching.dll
+D:\TINA\kuku5\poslednje\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Net.Http.Formatting.dll
+D:\TINA\kuku5\poslednje\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Web.Helpers.dll
+D:\TINA\kuku5\poslednje\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Web.Http.dll
+D:\TINA\kuku5\poslednje\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Web.Http.WebHost.dll
+D:\TINA\kuku5\poslednje\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Web.Mvc.dll
+D:\TINA\kuku5\poslednje\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Web.Optimization.dll
+D:\TINA\kuku5\poslednje\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Web.Razor.dll
+D:\TINA\kuku5\poslednje\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Web.WebPages.Deployment.dll
+D:\TINA\kuku5\poslednje\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Web.WebPages.dll
+D:\TINA\kuku5\poslednje\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Web.WebPages.Razor.dll
+D:\TINA\kuku5\poslednje\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\WebGrease.dll
+D:\TINA\kuku5\poslednje\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Antlr3.Runtime.xml
+D:\TINA\kuku5\poslednje\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\AutoMapper.xml
+D:\TINA\kuku5\poslednje\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\FluentNHibernate.xml
+D:\TINA\kuku5\poslednje\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Google.Protobuf.xml
+D:\TINA\kuku5\poslednje\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Iesi.Collections.xml
+D:\TINA\kuku5\poslednje\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\TINA\kuku5\poslednje\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\MySql.Data.xml
+D:\TINA\kuku5\poslednje\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\NHibernate.xml
+D:\TINA\kuku5\poslednje\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Remotion.Linq.xml
+D:\TINA\kuku5\poslednje\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Remotion.Linq.EagerFetching.xml
+D:\TINA\kuku5\poslednje\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Newtonsoft.Json.xml
+D:\TINA\kuku5\poslednje\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Net.Http.Formatting.xml
+D:\TINA\kuku5\poslednje\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Web.Helpers.xml
+D:\TINA\kuku5\poslednje\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Web.Http.xml
+D:\TINA\kuku5\poslednje\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Web.Http.WebHost.xml
+D:\TINA\kuku5\poslednje\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Web.Mvc.xml
+D:\TINA\kuku5\poslednje\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Web.Optimization.xml
+D:\TINA\kuku5\poslednje\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Web.Razor.xml
+D:\TINA\kuku5\poslednje\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Web.WebPages.xml
+D:\TINA\kuku5\poslednje\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Web.WebPages.Deployment.xml
+D:\TINA\kuku5\poslednje\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Web.WebPages.Razor.xml
+D:\TINA\kuku5\poslednje\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Microsoft.ApplicationInsights.xml
+D:\TINA\kuku5\poslednje\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Microsoft.AI.DependencyCollector.xml
+D:\TINA\kuku5\poslednje\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\TINA\kuku5\poslednje\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Microsoft.AI.WindowsServer.xml
+D:\TINA\kuku5\poslednje\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Microsoft.AI.Web.xml
+D:\TINA\kuku5\poslednje\si.19.36.appwake\Aplikacija\AppWake_API\api\obj\Release\api.csprojResolveAssemblyReference.cache
+D:\TINA\kuku5\poslednje\si.19.36.appwake\Aplikacija\AppWake_API\api\obj\Release\api.csproj.CoreCompileInputs.cache
+D:\TINA\kuku5\poslednje\si.19.36.appwake\Aplikacija\AppWake_API\api\obj\Release\api.dll
+D:\TINA\kuku5\poslednje\si.19.36.appwake\Aplikacija\AppWake_API\api\obj\Release\api.pdb
+D:\TINA\kuku6\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\ApplicationInsights.config
+D:\TINA\kuku6\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\api.dll.config
+D:\TINA\kuku6\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\api.dll
+D:\TINA\kuku6\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\api.pdb
+D:\TINA\kuku6\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Antlr3.Runtime.dll
+D:\TINA\kuku6\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\AutoMapper.dll
+D:\TINA\kuku6\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\BouncyCastle.Crypto.dll
+D:\TINA\kuku6\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\FluentNHibernate.dll
+D:\TINA\kuku6\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Google.Protobuf.dll
+D:\TINA\kuku6\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Iesi.Collections.dll
+D:\TINA\kuku6\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Microsoft.AI.Agent.Intercept.dll
+D:\TINA\kuku6\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Microsoft.AI.DependencyCollector.dll
+D:\TINA\kuku6\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\TINA\kuku6\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\TINA\kuku6\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Microsoft.AI.Web.dll
+D:\TINA\kuku6\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Microsoft.AI.WindowsServer.dll
+D:\TINA\kuku6\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Microsoft.ApplicationInsights.dll
+D:\TINA\kuku6\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\TINA\kuku6\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Microsoft.Web.Infrastructure.dll
+D:\TINA\kuku6\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\MySql.Data.dll
+D:\TINA\kuku6\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Newtonsoft.Json.dll
+D:\TINA\kuku6\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\NHibernate.dll
+D:\TINA\kuku6\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Remotion.Linq.dll
+D:\TINA\kuku6\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Remotion.Linq.EagerFetching.dll
+D:\TINA\kuku6\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Net.Http.Formatting.dll
+D:\TINA\kuku6\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Web.Helpers.dll
+D:\TINA\kuku6\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Web.Http.dll
+D:\TINA\kuku6\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Web.Http.WebHost.dll
+D:\TINA\kuku6\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Web.Mvc.dll
+D:\TINA\kuku6\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Web.Optimization.dll
+D:\TINA\kuku6\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Web.Razor.dll
+D:\TINA\kuku6\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Web.WebPages.Deployment.dll
+D:\TINA\kuku6\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Web.WebPages.dll
+D:\TINA\kuku6\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Web.WebPages.Razor.dll
+D:\TINA\kuku6\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\WebGrease.dll
+D:\TINA\kuku6\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Antlr3.Runtime.xml
+D:\TINA\kuku6\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\AutoMapper.xml
+D:\TINA\kuku6\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\FluentNHibernate.xml
+D:\TINA\kuku6\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Google.Protobuf.xml
+D:\TINA\kuku6\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Iesi.Collections.xml
+D:\TINA\kuku6\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\TINA\kuku6\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\MySql.Data.xml
+D:\TINA\kuku6\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\NHibernate.xml
+D:\TINA\kuku6\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Remotion.Linq.xml
+D:\TINA\kuku6\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Remotion.Linq.EagerFetching.xml
+D:\TINA\kuku6\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Newtonsoft.Json.xml
+D:\TINA\kuku6\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Net.Http.Formatting.xml
+D:\TINA\kuku6\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Web.Helpers.xml
+D:\TINA\kuku6\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Web.Http.xml
+D:\TINA\kuku6\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Web.Http.WebHost.xml
+D:\TINA\kuku6\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Web.Mvc.xml
+D:\TINA\kuku6\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Web.Optimization.xml
+D:\TINA\kuku6\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Web.Razor.xml
+D:\TINA\kuku6\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Web.WebPages.xml
+D:\TINA\kuku6\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Web.WebPages.Deployment.xml
+D:\TINA\kuku6\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\System.Web.WebPages.Razor.xml
+D:\TINA\kuku6\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Microsoft.ApplicationInsights.xml
+D:\TINA\kuku6\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Microsoft.AI.DependencyCollector.xml
+D:\TINA\kuku6\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\TINA\kuku6\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Microsoft.AI.WindowsServer.xml
+D:\TINA\kuku6\si.19.36.appwake\Aplikacija\AppWake_API\api\bin\Microsoft.AI.Web.xml
+D:\TINA\kuku6\si.19.36.appwake\Aplikacija\AppWake_API\api\obj\Release\api.csprojResolveAssemblyReference.cache
+D:\TINA\kuku6\si.19.36.appwake\Aplikacija\AppWake_API\api\obj\Release\api.csproj.CoreCompileInputs.cache
+D:\TINA\kuku6\si.19.36.appwake\Aplikacija\AppWake_API\api\obj\Release\api.dll
+D:\TINA\kuku6\si.19.36.appwake\Aplikacija\AppWake_API\api\obj\Release\api.pdb
